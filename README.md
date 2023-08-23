@@ -5,7 +5,7 @@ This repository contains a simple calculator program written in Python.
 
 ## Usage
 
-Run the `calculator.py` script to start the calculator. Follow the on-screen instructions to perform calculations.
+Run the `calcul.py` script to start the calculator. Follow the on-screen instructions to perform calculations.
 
 ## License
 
